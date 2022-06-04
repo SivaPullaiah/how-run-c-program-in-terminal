@@ -67,3 +67,7 @@ This should result in the following lines appearing in the terminal:
 Hello Your name
 Welcome to EEE1008
 Congratulations! You have just written, compiled and executed your first C program! It's alright for now if you have no idea what's going on, soon it will all become clear. Stay tuned! As a simple exercise, try to modify the program so that it actually prints your name instead of the text "Your name".
+
+
+
+https://www.staff.ncl.ac.uk/andrey.mokhov/EEE1008/first-c-program.html
